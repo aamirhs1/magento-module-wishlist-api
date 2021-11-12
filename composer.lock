@@ -8,7 +8,7 @@
     "packages": [
         {
             "name": "magento/framework",
-            "version": "100.1.7",
+            "version": "*",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/framework/magento-framework-100.1.7.0.zip",
